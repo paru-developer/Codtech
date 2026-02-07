@@ -1,7 +1,7 @@
 """
 Weather API Integration and Visualization Dashboard
-Author: [Your Name]
-Date: February 2026
+Author: [Parvathi Arun]
+Date: 15 February 2026
 Project: Internship Assignment - API Integration & Data Visualization
 
 Description:
@@ -32,7 +32,7 @@ def fetch_weather_data(city, api_key="demo"):
     Returns:
         dict: Weather data or None if failed
     """
-    # Using demo mode for testing (you can add real API key later)
+    # Using demo mode for testing 
     if api_key == "demo":
         # Generate sample data for demonstration
         import random
@@ -46,7 +46,7 @@ def fetch_weather_data(city, api_key="demo"):
             'description': random.choice(['Clear', 'Cloudy', 'Rainy'])
         }
     
-    # Real API call (uncomment when you have API key)
+    # Real API call 
     try:
         url = f"https://api.openweathermap.org/data/2.5/weather"
         params = {
@@ -250,18 +250,19 @@ def main():
     
     print()
     print("=" * 60)
-    print("✅ ALL VISUALIZATIONS COMPLETED!")
+    print("ALL VISUALIZATIONS COMPLETED!")
     print("=" * 60)
     print()
     print("Generated files:")
-    print("  📊 temperature_chart.png")
-    print("  📊 humidity_chart.png")
-    print("  📊 weather_dashboard.png")
-    print("  📊 correlation_heatmap.png")
-    print("  💾 weather_data.json")
+    print("  temperature_chart.png")
+    print("  humidity_chart.png")
+    print("  weather_dashboard.png")
+    print("  correlation_heatmap.png")
+    print(" weather_data.json")
     print()
     print("=" * 60)
 
 
 if __name__ == "__main__":
     main()
+
