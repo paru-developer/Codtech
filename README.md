@@ -1,5 +1,6 @@
 # Codtech
-# 1.Weather Data Visualization (Python)
+# 1.API integration and data visualization
+Weather Data Visualization (Python)
 
 ## Project Overview
 This project demonstrates my ability to:
@@ -82,7 +83,7 @@ Regular Expressions - Pattern matching
 JSON - Data storage
 Built-in libraries only - Works anywhere!
 
-## 4.
+## 4.Machine Learning model implementation
 
 ## Project Overview 
 This project demonstrates my ability to:
