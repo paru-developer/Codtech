@@ -54,7 +54,58 @@ matplotlib - Chart creation
 reportlab - PDF generation
 CSV - Data input format
 
-## 3. 
+## 3. AI Chatbot with Natural Language Processing
+
+## Project Overview
+This project demonstrates my ability to:
+
+Build an AI chatbot from scratch
+Implement Natural Language Processing (NLP) techniques
+Handle user intent recognition
+Create an interactive conversational interface
+Write clean, well-documented Python code
+
+## What This Chatbot Does
+
+Understands user intent through pattern matching
+Recognizes and remembers user names
+Answers questions about programming topics
+Tells time and date
+Responds to greetings and farewells
+Tells jokes
+Saves conversation history
+
+## Technologies Used
+
+Python 3.x (No external libraries required!)
+Regular Expressions - Pattern matching
+JSON - Data storage
+Built-in libraries only - Works anywhere!
+
+## 4.
+
+## Project Overview 
+This project demonstrates my ability to:
+
+Build a complete machine learning pipeline
+Implement classification models using scikit-learn
+Perform data preprocessing and feature engineering
+Evaluate and compare multiple ML models
+Visualize model performance
+Create production-ready code
+
+## What This Chatbot Does
+
+Build a machine learning model to classify emails as spam or ham (legitimate emails) using Natural Language Processing and classification algorithms.
+
+## Technologies Used
+
+Python 3.x
+scikit-learn - Machine learning algorithms
+pandas - Data manipulation
+matplotlib & seaborn - Data visualization
+TF-IDF - Text feature extraction
+
 
 ## How to Run
 1. Install Python 3.
