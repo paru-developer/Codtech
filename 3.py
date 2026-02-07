@@ -1,6 +1,6 @@
 """
 AI Chatbot with Natural Language Processing
-Author: [Your Name]
+Author: [Parvathi Arun]
 Date: February 2026
 Project: Internship Assignment - NLP Chatbot
 
@@ -441,3 +441,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
