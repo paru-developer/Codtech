@@ -1,23 +1,60 @@
 # Codtech
-# Weather Data Visualization (Python)
+# 1.Weather Data Visualization (Python)
 
-This project is a Python-based weather data visualization script created as part of an
-internship assignment.
+## Project Overview
+This project demonstrates my ability to:
 
-## Description
-The script demonstrates API-style data handling and data visualization concepts using
-Python. For demonstration purposes, it uses sample weather data and generates multiple
-charts and output files.
+Work with REST APIs
+Process and analyze data using Python
+Create professional data visualizations
+Write clean, documented code
 
-## Features
-- Structured Python script
-- Demonstrates data processing using pandas
-- Generates visualizations using matplotlib and seaborn
-- Saves output charts and data files locally
+## What This Project Does
+This program fetches weather data from OpenWeatherMap API for multiple cities and creates visual comparisons including:
 
-## Notes
-This project is intended as a demonstration of Python scripting and data visualization
-workflow.
+Temperature comparisons
+Humidity levels
+Atmospheric pressure
+Wind speeds
+Statistical correlations between weather parameters
+
+## Technologies Used
+
+Python 3.x
+requests - For API calls
+pandas - For data processing
+matplotlib - For creating charts
+seaborn - For enhanced visualizations
+
+
+## 2.Automated Report Generation System 
+
+## Project Overview
+This project demonstrates my ability to:
+
+Read and process data from CSV files
+Perform data analysis and calculations
+Create professional visualizations
+Generate automated PDF reports
+Write clean, documented code
+
+## What This Project Does
+This program automatically:
+
+Reads sales data from a CSV file
+Analyzes the data (totals, averages, breakdowns)
+Creates charts and graphs
+Generates a professional PDF report with all findings
+
+## Technologies Used
+
+Python 3.x
+pandas - Data processing and analysis
+matplotlib - Chart creation
+reportlab - PDF generation
+CSV - Data input format
+
+## 3. 
 
 ## How to Run
 1. Install Python 3.
